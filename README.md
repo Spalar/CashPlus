@@ -1,5 +1,5 @@
-# CashPlus
-![cashplus](https://github.com/user-attachments/assets/30dd4962-0d94-42dc-a49e-f4d457da7d86)
+![cashplusbanner](https://github.com/user-attachments/assets/1e0987b6-6054-4961-b3bb-abfc96bb6c15)
+
 
 This is a GNU Cash based database design with Double Entry Book keeping to support GNU Cash on Postgres. Project aims to provide similar features as an API on the same Database.
 The API is a Django Rest Framework based project with user authorization and control. The API aims to keep the database pure to keep the current GNU Cash Desktop app running.
